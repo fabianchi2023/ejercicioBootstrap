@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #c1abd6;
+}
+.estiloPropio{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+}
+.tabla{
+    width: 500px;
+    margin: 10px auto;
+}
+.radius{
+    border: solid blue 2px;
+}
+.formulario{
+    width: 500px;
+    margin: 10px auto;
+    border:solid rgb(174, 0, 255) 2px;
+    padding: 1rem;
+}
+.botonDropdown{
+    text-align: center;
+}
+.logo{
+    width: 50px;
+}
+.colorPropio{
+    background-color: rgb(179, 30, 179);
+}
+.mercado{
+    width: 100px;
+}
+.acordeon{
+    width: 700px;
+    margin: 20px auto;
+}
